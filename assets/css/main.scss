@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (the three dashes)
+---
+
+@import "minimal-mistakes";
+
+.site-logo img {
+    height: 100px;
+    max-height: 100%;
+    width: auto;
+}
