@@ -2,66 +2,41 @@
 layout: splash
 title: "Club d'Échecs de la Brie"
 header:
-  overlay_image: /assets/images/home_splash.jpg
-  overlay_filter: 0.3
-  caption: "Photo de [Randy Fath](https://unsplash.com/fr/@randyfath?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [unsplash](https://unsplash.com/fr/photos/photographie-selective-des-pieces-dechecs-G1yhU1Ej-9A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
-excerpt: "Un lieu pour jouer, apprendre et progresser"
+    overlay_image: /assets/images/home_splash.jpg
+    overlay_filter: 0.3
+    caption: "Photo de [Randy Fath](https://unsplash.com/fr/@randyfath?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) sur [unsplash](https://unsplash.com/fr/photos/photographie-selective-des-pieces-dechecs-G1yhU1Ej-9A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
+excerpt: "Un lieu pour jouer, apprendre et progresser<br> à <strong style='font-size:1.2em;'>Roissy-en-Brie</strong>"
+feature_row:
+    -   image_path: /assets/images/learning_chess.jpg
+        btn_class: "btn--primary"
+        btn_label: "En savoir plus"
+        alt: "Ateliers et Cours"
+        title: "Ateliers et Cours"
+        excerpt: "Progressez grâce à nos cours pour tous les niveaux. Idéal pour débutants et amateurs !"
+        url: "/horaires-tarifs"
+    -   image_path: /assets/images/competition_chess.jpg
+        btn_class: "btn--primary"
+        btn_label: "En savoir plus"
+        alt: "Compétitions"
+        title: "Compétitions"
+        excerpt: "Participez à des tournois locaux et régionaux, et affrontez les meilleurs !"
+        url: "https://www.echecs.asso.fr/ListeEquipes.aspx?ClubRef=1782"
+        external_url: true
+    -   image_path: /assets/images/home_splash.jpg
+        btn_class: "btn--primary"
+        btn_label: "En savoir plus"
+        alt: "Inscription"
+        title: "Inscription"
+        excerpt: "Rejoignez nos événements et vivez une belle expérience au sein de notre communauté !"
+        url: "/horaires-tarifs"
 ---
-<!-- Section des carrés descriptifs -->
-<div class="features-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px 50px;">
-
-  <!-- Carré 1 : "Ateliers" -->
-  <div class="feature-box"
-       style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/home_splash.jpg');
-              background-size: cover;
-              background-position: center;
-              border: 1px solid #ddd;
-              border-radius: 10px;
-              padding: 20px;
-              text-align: center;
-              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-              color: white;
-              height: 250px;
-              display: flex;
-              flex-direction: column;
-              justify-content: center;">
-    <h3 style="padding: 10px; border-radius: 5px;">🎓 Ateliers et Cours</h3>
-    <p style="padding: 10px; border-radius: 5px;">Progressez grâce à nos cours pour tous les niveaux. Idéal pour débutants et amateurs !</p>
-    <a href="/ateliers" class="btn btn-primary" style="margin-top: 10px;">Découvrir</a>
-  </div>
-
-
-  <!-- Carré 2 : "Compétitions" -->
-  <div class="feature-box" style="background: #f9f9f9; border: 1px solid #ddd; border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <img src="/assets/images/home_splash.jpg" alt="Compétitions" style="width: 100%; border-radius: 10px; max-height: 200px; object-fit: cover;">
-    <h3 style="margin-top: 15px;">🏆 Compétitions</h3>
-    <p>Participez à des tournois locaux et régionaux, et affrontez les meilleurs !</p>
-    <a href="/competitions" class="btn btn-primary">En savoir plus</a>
-  </div>
-
-  <!-- Carré 3 : "Événements spéciaux" -->
-  <div class="feature-box" style="background: #f9f9f9; border: 1px solid #ddd; border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <h3 style="margin-top: 15px;">📅 Événements spéciaux</h3>
-    <p>Rejoignez nos simultanées, conférences et autres événements inoubliables !</p>
-    <a href="/evenements" class="btn btn-primary">Voir événements</a>
-  </div>
-
-  <!-- Carré 4 : "Adhésion" -->
-  <div class="feature-box" style="background: #f9f9f9; border: 1px solid #ddd; border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <img src="/assets/images/adhesion.jpg" alt="Adhésion au club" style="width: 100%; border-radius: 10px; max-height: 200px; object-fit: cover;">
-    <h3 style="margin-top: 15px;">🤝 Adhésion au Club</h3>
-    <p>Rejoignez-nous et faites partie d’une communauté passionnée !</p>
-    <a href="/adhesion" class="btn btn-primary">Devenir membre</a>
-  </div>
-</div>
-
-<hr>
-
+{% include feature_row %}
 <!-- Section de localisation -->
-<div class="location" style="text-align: center; padding: 50px;">
-  <h2>Où nous trouver ?</h2>
-  <p>Notre club est situé à Roissy-en-Brie. Retrouvez plus d'informations sur la page <a href="/contact/">Contact</a>.</p>
-  <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.9999793454897!2d2.617445915673368!3d48.7962437792808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e5fa0740840929%3A0x89c3ecb82ad42912!2sEspace%20Rosa%20Bonheur%2C%207680%20Roissy-en-Brie%2C%20France!5e0!3m2!1sen!2sfr!4v1633540329127!5m2!1sen!2sfr"
-    width="100%" height="300" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy"></iframe>
+<div class="location" style="text-align: center; padding: 20px;">
+    <h2>Où nous trouver ?</h2>
+    <p>Notre club est situé à Roissy-en-Brie. Retrouvez plus d'informations sur la page <a href="/contact/">Contact</a>.
+    </p>
+    <iframe
+            src="https://maps.google.com/maps?q=Espace+Rosa+Bonheur%2C+Pl.+de+l%27Europe%2C+77680+Roissy-en-Brie&t=&z=16&ie=UTF8&iwloc=&output=embed"
+            width="100%" height="400" style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy"></iframe>
 </div>
