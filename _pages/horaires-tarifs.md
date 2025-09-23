@@ -48,6 +48,6 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
 
 - **Contactez-nous pour toute question :**  
   📧 [club.echecs.la.brie@gmail.com](mailto:club.echecs.la.brie@gmail.com)  
-  📞 +33 1 23 45 67 89
+  📞 +33 6 09 32 07 66
 
 Nous serons ravis de vous accueillir et de partager notre passion des échecs avec vous ! 😊  
