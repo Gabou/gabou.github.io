@@ -11,13 +11,17 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
 ## 🕒 Horaires
 
 ### **Ouverture du club**
-- **Vendredi :** 20h00 - 23h00
+- **Mercredi :** 13h00 - 15h00
+- **Jeudi :** 19h00 - 23h00
+- **Vendredi :** 19h00 - 23h00
+- **Samedi :** 10h00 - 13h00 puis 16h00 - 19h00
 
 ### **Cours et entraînements**
 - **Débutants :**  
+  *Samedi 13h00 - 14h00*
+- **Niveau intermédiaire :**
   *Samedi 14h00 - 15h00*
-  *Mercredi 13h30 - 15h00*
-- **Niveau intermédiaire et avancé :**
+- **Niveau avancé :**
   *Samedi 15h00 - 16h00* 
 
 👉 *Des parties amicales sont toujours possibles en dehors des heures de cours.*
@@ -27,13 +31,10 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
 ## 💶 Tarifs
 
 ### **Adhésion annuelle**
-- **Loisirs (Licence B) :** 50€
-- **Enfants (Licence A) :** 130€
-- **Adultes (Licence A) :** 160€
-
-### **Cours (optionnels)**
-- **Participants réguliers (adhérents) :** Inclus dans l’adhésion
-- **Non-adhérents :** 10 € par cours
+- **Formule cours adulte :** 180€
+- **Formule cours jeune :** 160€
+- **Formule adulte loisir :** 50€
+- **Formule initiation moins de 6 ans :** 80€
 
 👉 *La première séance est gratuite pour découvrir notre club et nos activités !*
 
@@ -46,7 +47,7 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
   77680 Roissy-en-Brie, France
 
 - **Contactez-nous pour toute question :**  
-  📧 [contact@echecsdelabrie.fr](mailto:contact@echecsdelabrie.fr)  
+  📧 [club.echecs.la.brie@gmail.com](mailto:club.echecs.la.brie@gmail.com)  
   📞 +33 1 23 45 67 89
 
 Nous serons ravis de vous accueillir et de partager notre passion des échecs avec vous ! 😊  
