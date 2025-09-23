@@ -28,7 +28,7 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
   *Vendredi 20h00 - 22h00 (1 semaine sur 2)*
   
 
-👉 *Des parties amicales sont toujours possibles en dehors des heures de cours.*
+👉 *Seul le mercredi, un encadrant est disponible pour surveiller les enfants.*
 
 ---
 
