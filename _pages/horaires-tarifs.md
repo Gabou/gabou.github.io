@@ -22,7 +22,11 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
 - **Niveau intermédiaire :**
   *Samedi 14h00 - 15h00*
 - **Niveau avancé :**
-  *Samedi 15h00 - 16h00* 
+  *Samedi 15h00 - 16h00*
+  
+- **Adulte :**
+  *Vendredi 20h00 - 22h00 (1 semaine sur 2)*
+  
 
 👉 *Des parties amicales sont toujours possibles en dehors des heures de cours.*
 
@@ -43,7 +47,7 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
 ## 📍 Informations complémentaires
 
 - **Adresse du club :**  
-  Espace Rosa Bonheur, Pl. de l'Europe  
+  Espace Rosa Bonheur, 9 avenue Panas  
   77680 Roissy-en-Brie, France
 
 - **Contactez-nous pour toute question :**  
