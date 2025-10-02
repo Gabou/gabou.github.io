@@ -1,6 +1,10 @@
 ---
+title: "Contact – Club d’échecs Roissy-en-Brie (77)"
 permalink: /contact/
-title: ""
+description: "Adresse, plan et horaires du club d’échecs de Roissy-en-Brie (77)."
+seo:
+  title: "Contact – Club d’échecs Roissy-en-Brie"
+  description: "Comment nous contacter et nous trouver à Roissy-en-Brie (77)."
 ---
 
 ## 🏠 Adresse du club
