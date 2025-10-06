@@ -24,6 +24,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 url: "https://www.ceb77.com"
+favicon: /assets/images/favicon/favicon-96x96.png
 
 # Build settings
 markdown: kramdown
