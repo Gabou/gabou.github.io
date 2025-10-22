@@ -17,3 +17,35 @@
     font-size: 10px; /* Taille des crédits réduite */
     border-bottom: 1px solid #444;
 }
+
+.site-card {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 1.5rem;
+}
+
+.site-info {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.site-logo {
+    width: 120px;
+    height: auto;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    flex-shrink: 0;
+    border-radius: 8px;
+}
+
+.site-text {
+    flex: 1;
+    min-width: 250px;
+}
+
+@media (min-width: 600px) {
+    .page__title {
+        white-space: nowrap !important;
+    }
+}

@@ -6,3 +6,5 @@ main:
   - title: "Licenciés"
     url: https://www.echecs.asso.fr/ListeJoueurs.aspx?Action=JOUEURCLUBREF&ClubRef=1782
     external: true
+  - title: "Astuces"
+    url: /astuces/
