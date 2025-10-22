@@ -8,7 +8,7 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
 
 ---
 
-## 🕒 Horaires
+## 🕒 Horaires <a href="/calendrier/" class="btn btn--info">Voir le calendrier complet</a>
 
 ### **Ouverture du club**
 - **Mercredi :** 13h00 - 15h00
@@ -25,7 +25,7 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
   *Samedi 15h00 - 16h00*
   
 - **Adulte :**
-  *Vendredi 20h00 - 22h00 (1 semaine sur 2)*
+  *Vendredi 20h00 - 22h00 (2 semaines par mois)*
   
 
 👉 *Seul le mercredi, un encadrant est disponible pour surveiller les enfants.*
