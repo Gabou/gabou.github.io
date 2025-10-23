@@ -81,10 +81,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _tips
+  # _astuces
   - scope:
       path: ""
-      type: tips
+      type: astuces
     values:
       layout: single
       author_profile: false
@@ -98,6 +98,6 @@ tag_archive:
   path: /tags/
 
 collections:
-  tips:
+  astuces:
     output: true
     permalink: /:collection/:path/
