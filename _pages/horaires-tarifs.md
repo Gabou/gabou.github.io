@@ -12,9 +12,8 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
 
 ### **Ouverture du club**
 - **Mercredi :** 13h00 - 15h00
-- **Jeudi :** 19h00 - 23h00
 - **Vendredi :** 19h00 - 23h00
-- **Samedi :** 10h00 - 13h00 puis 16h00 - 19h00
+- **Samedi :** 13h00 - 19h00
 
 ### **Cours et entraînements**
 - **Débutants :**  
@@ -39,6 +38,7 @@ Bienvenue dans notre club ! Découvrez ci-dessous nos horaires d'ouverture ainsi
 - **Formule cours jeune :** 160€
 - **Formule adulte loisir :** 50€
 - **Formule initiation moins de 6 ans :** 80€
+- **Formule compétition jeune ou adulte :** 100€
 
 👉 *La première séance est gratuite pour découvrir notre club et nos activités !*
 
